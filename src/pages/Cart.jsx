@@ -31,11 +31,6 @@ export default function Cart() {
           <h3>Total: ${total}</h3>
 
          
-          <Link to="/checkout">
-            <button style={{ marginTop: "15px" }}>
-              Proceed to Checkout
-            </button>
-          </Link>
         </>
       )}
     </div>
